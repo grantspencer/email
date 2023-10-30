@@ -16,6 +16,7 @@ import java.util.List;
 @AllArgsConstructor
 public class Email {
     public static final String INBOX = "inbox";
+    public static final String OUTBOX = "outbox";
     public static final String DRAFTS = "drafts";
     public static final String SENT = "sent";
 
